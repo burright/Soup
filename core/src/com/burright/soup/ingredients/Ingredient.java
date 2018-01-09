@@ -1,4 +1,4 @@
-package com.burright.soup;
+package com.burright.soup.ingredients;
 
 public abstract class Ingredient
 {
